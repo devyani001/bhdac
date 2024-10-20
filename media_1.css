@@ -231,11 +231,12 @@
 
         .uprfooter {
             position: absolute;
-            top: 3720px;
+            top: 3800px;
             left: 0;
             color: rgb(255, 255, 255);
             text-align: center;
             margin: 0px 35px;
+            font-family: "playfair display";
         }
 
         .icons {
