@@ -161,11 +161,11 @@
         video {
             /* align-items: start; */
             width: 100%;
-            height: 450px;
+            height: 410px;
             position: absolute;
             left: 0;
             border: 20x solid rebeccapurple;
-            top: 3100px;
+            top: 3300px;
             margin-left: 0px;
             /* margin: 20px; */
             
